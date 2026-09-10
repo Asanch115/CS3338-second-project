@@ -1,0 +1,52 @@
+commit 1804d32402d1b583efe3789299ba5972ed2c7b6d
+Merge: 49b41a3 1b7d16f
+Author: Alberto <sanchezal2006@gmail.com>
+Date:   Thu Sep 10 16:49:00 2026 -0700
+
+    merge conflict
+
+commit 1b7d16fa7b8df84b4263ce2e3d685bacb23f7a1c
+Author: Alberto <sanchezal2006@gmail.com>
+Date:   Thu Sep 10 16:45:03 2026 -0700
+
+    another favorite
+
+commit 49b41a34cf18c28e0a900181817b2380ae079e82
+Author: Alberto <sanchezal2006@gmail.com>
+Date:   Thu Sep 10 16:43:05 2026 -0700
+
+    Adding a favorite food
+
+commit 8205e5b6eb2150b330bff971eb2049384ec3f1b6
+Merge: 51b1250 4b163f8
+Author: Alberto <sanchezal2006@gmail.com>
+Date:   Thu Sep 10 16:35:56 2026 -0700
+
+    Merge branch 'main' of https://github.com/Asanch115/CS3338-second-project
+
+commit 51b12509b76d79417b8376ca473765cabbaf8ca3
+Author: Alberto <sanchezal2006@gmail.com>
+Date:   Thu Sep 10 16:35:11 2026 -0700
+
+    add readme
+
+commit 4b163f81216e734b8275280923f823b5817b5fc5
+Merge: 1d2bfc0 43d764e
+Author: Asanch115 <sanchezal2006@gmail.com>
+Date:   Thu Sep 10 16:33:01 2026 -0700
+
+    Merge pull request #1 from Asanch115/info-fill
+    
+    filled in info
+
+commit 43d764e882ed8b151860531ec173697b50737dc3
+Author: Alberto <sanchezal2006@gmail.com>
+Date:   Thu Sep 10 16:25:22 2026 -0700
+
+    filled in info
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
